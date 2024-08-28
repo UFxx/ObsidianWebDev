@@ -21,6 +21,3 @@ observer.observe(node, { childList: true; });
 
 **Подробнее: 
 [Видео](https://www.youtube.com/watch?v=RYMsQqinxGY)
-
----
-[[Асинхронность]]

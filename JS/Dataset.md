@@ -1,4 +1,4 @@
-В HTML элементам можно задавать атрибуты. В том числе можно задать атрибут `data`, к примеру: `data-start-position`. В JS мы можем взять все атрибуты начинающиеся с `data`:
+В HTML элементам можно задавать атрибуты. В том числе можно задать атрибут `data`, к примеру: `data-start-position`. В [JS](JS) мы можем взять все атрибуты начинающиеся с `data`:
 ```
 // "[data]" - выбор элементов по названию аттрибута
 const elementsWithData = document.querySelectorAll('[data]');
@@ -12,7 +12,7 @@ elementsWithData.forEach(el => {
 К примеру:
 `data-color`, `data-start-position`...
 
-К этим атрибутам мы можем обратиться из JS использовав `dataset` (пример выше). По-мимо простого обращения к атрибуту `data`, мы можем устанавливать и менять его:
+К этим атрибутам мы можем обратиться из [JS](JS) использовав `dataset` (пример выше). По-мимо простого обращения к атрибуту `data`, мы можем устанавливать и менять его:
 ```
 const elementsWithData = document.querySelectorAll("[data]");
 elementsWithData.forEach((el, i) => {
@@ -37,7 +37,3 @@ console.log(el.dataset.backgroundColor)
 ```
 
 То есть обращение к таким атрибутам аналогично обращения к стилям элемента (`el.style.zIndex`, `el.style.fontSize`).
-
-
----
-[[JS]]
