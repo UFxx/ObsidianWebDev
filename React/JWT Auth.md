@@ -29,5 +29,8 @@ axios.defaults.headers.common["Authorization"] = JWT ${localStorage.getItem("JWT
 **Пояснение**
 В App.js есть строчка:
 `axios.defaults.headers.common["Authorization"] = JWT ${localStorage.getItem("JWT")};`
-она говорит о том, что мы записываем в заголовки страницы по именем `Authorization` JWT токен, которой берем из `localStorage` (ведь туда мы его записали при получении ответа на [POST](POST)-запрос).
+она говорит о том, что мы записываем в заголовки страницы по именем `Authorization` JWT токен, которой берем из `localStorage` (ведь туда мы его записали при получении ответа на POST-запрос).
 Эта строка находится именно в App.js, потому что нам нужно, чтобы это срабатывало при каждом переходе на другую страницу, иначе заголовок `Authorization` пропадет при перезагрузке на любой странице.
+
+---
+[[Axios]]
