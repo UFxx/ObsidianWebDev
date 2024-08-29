@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "29d662d717ffb73e",
+        "id": "d63e8b92c3fd842f",
         "type": "tabs",
         "children": [
           {
-            "id": "3b84183980b3770b",
+            "id": "ee3931e72c4ccc62",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "235e5e72b88a0dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/JSX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d39d7d17bf68337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Создание проекта/Создание проекта CRA.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -162,17 +138,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3b84183980b3770b",
+  "active": "0040cf17579d7d02",
   "lastOpenFiles": [
+    "JS/EventLoop.md",
+    "JS/Асинхронность/EventLoop/EventLoop.md",
+    "React/Создание проекта/Создание проекта CRA.md",
     "React/JSX.md",
+    "Group 1.png.md",
     "React/React + API/Работа с данными.md",
     "React/Работа с данными.md",
-    "React/Создание проекта/Создание проекта CRA.md",
     "React/Создание шаблонного проекта.md",
     "React/Структура проекта.md",
     "React/Подключение.md",
-    "JS/EventLoop/EventLoop1.png",
-    "Group 1.png.md",
+    "JS/Асинхронность/EventLoop/EventLoop1.png",
     "TS/Продвинутые типы/Продвинутые типы.md",
     "TS/Основные типы/Типы в функциях.md",
     "TS/Продвинутые типы/Литеральные типы.md",
@@ -194,10 +172,8 @@
     "React/Создание проекта",
     "React/Redux/Структура проекта.png",
     "React/Redux/Принцип работы.md",
-    "React/Redux/Redux.md",
     "React/Redux/Redux пример использования.png",
     "React/Redux",
-    "React/React Router/React Router.md",
     "React/Cтруктура проекта/Структура проекта 2.png",
     "React/Cтруктура проекта/Структура проекта 3.png",
     "React/Cтруктура проекта/Структура проекта 1.png",
