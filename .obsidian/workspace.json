@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d63e8b92c3fd842f",
+        "id": "27e4e5c5db7430b9",
         "type": "tabs",
         "children": [
           {
-            "id": "ee3931e72c4ccc62",
+            "id": "f6faa7b85644a6da",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -132,46 +133,48 @@
     "hiddenItems": {
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
+      "canvas:Создать новый холст": true,
+      "daily-notes:Сегодняшняя заметка": true,
+      "templates:Вставить шаблон": true,
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0040cf17579d7d02",
+  "active": "f6faa7b85644a6da",
   "lastOpenFiles": [
+    "SCSS/Вложенности.md",
+    "TS/Продвинутые типы/Литеральные типы.md",
+    "Roadmap Junior.canvas",
+    "SCSS/Импорт.md",
+    "React/Хуки/Хуки.md",
+    "Без названия.canvas",
+    "TS/Продвинутые типы/Типы и интерфейсы/Что использовать.md",
+    "TS/Продвинутые типы/Типы и интерфейсы/Type.md",
+    "TS/Продвинутые типы/Типы и интерфейсы/Interfaces.md",
+    "TS/Продвинутые типы/Типы и интерфейсы",
+    "React/События.md",
+    "React/Структура проекта.md",
+    "React/Cтруктура проекта/Структура проекта.md",
+    "React/Подключение.md",
+    "React/Подключение стилей.md",
+    "React/Вывод данных.md",
+    "React/Подключение картинок.md",
+    "TS/Продвинутые типы/Продвинутые типы.md",
+    "React/Создание проекта/Создание проекта CRA.md",
+    "React/Создание проекта/Создание проекта.md",
     "JS/EventLoop.md",
     "JS/Асинхронность/EventLoop/EventLoop.md",
-    "React/Создание проекта/Создание проекта CRA.md",
     "React/JSX.md",
     "Group 1.png.md",
     "React/React + API/Работа с данными.md",
     "React/Работа с данными.md",
     "React/Создание шаблонного проекта.md",
-    "React/Структура проекта.md",
-    "React/Подключение.md",
     "JS/Асинхронность/EventLoop/EventLoop1.png",
-    "TS/Продвинутые типы/Продвинутые типы.md",
     "TS/Основные типы/Типы в функциях.md",
-    "TS/Продвинутые типы/Литеральные типы.md",
-    "TS/Основные типы/Основные типы.md",
-    "TS/Основные типы/Массивы.md",
-    "TS/Продвинутые типы/Union.md",
-    "TS/Основные типы/Типизация объекта.md",
-    "TS/Основные типы/Кортежи.md",
-    "TS/Основные типы/Readonly.md",
-    "TS/Основные типы/Enum.md",
     "TS/Продвинутые типы",
     "TS/Основные типы",
-    "TS/Начало работы.md",
-    "TS/TS.md",
     "TS",
-    "React/Хуки/Хуки.md",
-    "React/Создание проекта/Создание проекта.md",
-    "React/Создание проекта/Создание проекта Vite.md",
     "React/Создание проекта",
     "React/Redux/Структура проекта.png",
-    "React/Redux/Принцип работы.md",
     "React/Redux/Redux пример использования.png",
     "React/Redux",
     "React/Cтруктура проекта/Структура проекта 2.png",
@@ -183,9 +186,7 @@
     "React/Картинки структура проекта/Структура проекта 2.png",
     "React/Картинки структура проекта/Структура проекта 1.png",
     "React/Картинки структура проекта",
-    "Roadmap Junior.canvas",
     "TS/Типы",
-    "React/Redux/Pasted image 20240826154231.png",
-    "JS/Модули"
+    "React/Redux/Pasted image 20240826154231.png"
   ]
 }
