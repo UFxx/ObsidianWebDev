@@ -4,15 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "20a8b0f941c25ad6",
+        "id": "29d662d717ffb73e",
         "type": "tabs",
         "children": [
           {
-            "id": "9682df2b5c11f680",
+            "id": "3b84183980b3770b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "235e5e72b88a0dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/JSX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d39d7d17bf68337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Создание проекта/Создание проекта CRA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -138,8 +162,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9682df2b5c11f680",
+  "active": "3b84183980b3770b",
   "lastOpenFiles": [
+    "React/JSX.md",
+    "React/React + API/Работа с данными.md",
+    "React/Работа с данными.md",
+    "React/Создание проекта/Создание проекта CRA.md",
+    "React/Создание шаблонного проекта.md",
+    "React/Структура проекта.md",
+    "React/Подключение.md",
+    "JS/EventLoop/EventLoop1.png",
+    "Group 1.png.md",
     "TS/Продвинутые типы/Продвинутые типы.md",
     "TS/Основные типы/Типы в функциях.md",
     "TS/Продвинутые типы/Литеральные типы.md",
@@ -158,7 +191,6 @@
     "React/Хуки/Хуки.md",
     "React/Создание проекта/Создание проекта.md",
     "React/Создание проекта/Создание проекта Vite.md",
-    "React/Создание проекта/Создание проекта CRA.md",
     "React/Создание проекта",
     "React/Redux/Структура проекта.png",
     "React/Redux/Принцип работы.md",
@@ -166,17 +198,10 @@
     "React/Redux/Redux пример использования.png",
     "React/Redux",
     "React/React Router/React Router.md",
-    "React/React + API/API.md",
     "React/Cтруктура проекта/Структура проекта 2.png",
     "React/Cтруктура проекта/Структура проекта 3.png",
-    "React/Cтруктура проекта/Структура проекта.md",
     "React/Cтруктура проекта/Структура проекта 1.png",
     "React/Cтруктура проекта",
-    "JS/Правила именования переменных.md",
-    "JS/Асинхронность/Асинхронность.md",
-    "JS/Асинхронность/Promise.md",
-    "JS/Асинхронность/MutationObserver.md",
-    "JS/Асинхронность/Async & Await.md",
     "JS/Асинхронность",
     "React/Картинки структура проекта/Структура проекта 3.png",
     "React/Картинки структура проекта/Структура проекта 2.png",
@@ -185,7 +210,6 @@
     "Roadmap Junior.canvas",
     "TS/Типы",
     "React/Redux/Pasted image 20240826154231.png",
-    "JS/Модули",
-    "JS/EventLoop/EventLoop2.png"
+    "JS/Модули"
   ]
 }
