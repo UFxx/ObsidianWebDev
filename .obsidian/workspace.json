@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "27e4e5c5db7430b9",
+        "id": "6571d8ee15e4e2df",
         "type": "tabs",
         "children": [
           {
-            "id": "f6faa7b85644a6da",
+            "id": "05c999ea9832ab8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TS/Продвинутые типы/Unknown.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TS/Продвинутые типы/Unknown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TS/Продвинутые типы/Unknown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TS/Продвинутые типы/Unknown.md"
+              }
             }
           }
         ],
@@ -139,37 +147,38 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f6faa7b85644a6da",
+  "active": "05c999ea9832ab8f",
   "lastOpenFiles": [
-    "SCSS/Вложенности.md",
+    "TS/Продвинутые типы/Void.md",
+    "TS/Продвинутые типы/Unknown.md",
+    "TS/Продвинутые типы/Union.md",
+    "TS/Продвинутые типы/Optional.md",
+    "TS/Продвинутые типы/Продвинутые типы.md",
     "TS/Продвинутые типы/Литеральные типы.md",
+    "TS/Основные типы/Readonly.md",
+    "TS/Основные типы/Enum.md",
+    "TS/Основные типы/Типы в функциях.md",
+    "TS/Основные типы/Типизация объекта.md",
+    "TS/Основные типы/Основные типы.md",
+    "TS/Основные типы/Сужение типов.md",
+    "TS/Основные типы/Массивы.md",
+    "TS/Основные типы/Кортежи.md",
+    "TS/TS.md",
+    "TS/Продвинутые типы/Типы и интерфейсы/Что использовать.md",
+    "TS/Продвинутые типы/Типы и интерфейсы/Type.md",
+    "TS/Продвинутые типы/Типы и интерфейсы/Interfaces.md",
+    "SCSS/Вложенности.md",
     "Roadmap Junior.canvas",
     "SCSS/Импорт.md",
     "React/Хуки/Хуки.md",
     "Без названия.canvas",
-    "TS/Продвинутые типы/Типы и интерфейсы/Что использовать.md",
-    "TS/Продвинутые типы/Типы и интерфейсы/Type.md",
-    "TS/Продвинутые типы/Типы и интерфейсы/Interfaces.md",
     "TS/Продвинутые типы/Типы и интерфейсы",
     "React/События.md",
     "React/Структура проекта.md",
     "React/Cтруктура проекта/Структура проекта.md",
     "React/Подключение.md",
     "React/Подключение стилей.md",
-    "React/Вывод данных.md",
-    "React/Подключение картинок.md",
-    "TS/Продвинутые типы/Продвинутые типы.md",
-    "React/Создание проекта/Создание проекта CRA.md",
-    "React/Создание проекта/Создание проекта.md",
-    "JS/EventLoop.md",
-    "JS/Асинхронность/EventLoop/EventLoop.md",
-    "React/JSX.md",
-    "Group 1.png.md",
-    "React/React + API/Работа с данными.md",
-    "React/Работа с данными.md",
-    "React/Создание шаблонного проекта.md",
     "JS/Асинхронность/EventLoop/EventLoop1.png",
-    "TS/Основные типы/Типы в функциях.md",
     "TS/Продвинутые типы",
     "TS/Основные типы",
     "TS",
