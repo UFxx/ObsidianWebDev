@@ -2,6 +2,7 @@
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "textFontFamily": "Fira Code",
-  "interfaceFontFamily": "Consolas",
-  "monospaceFontFamily": "Fira Code Retina"
+  "interfaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code Retina",
+  "baseFontSize": 14
 }

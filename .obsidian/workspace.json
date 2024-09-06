@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6571d8ee15e4e2df",
+        "id": "21b0aa5a5c256bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "05c999ea9832ab8f",
+            "id": "e719338fa7df2439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/Продвинутые типы/Unknown.md",
+                "file": "NodeJS/Подключение к базе данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/Продвинутые типы/Unknown.md",
+                "file": "NodeJS/Подключение к базе данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/Продвинутые типы/Unknown.md",
+                "file": "NodeJS/Подключение к базе данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/Продвинутые типы/Unknown.md"
+                "file": "NodeJS/Подключение к базе данных.md"
               }
             }
           }
@@ -147,14 +147,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "05c999ea9832ab8f",
+  "active": "e719338fa7df2439",
   "lastOpenFiles": [
-    "TS/Продвинутые типы/Void.md",
+    "NodeJS/Запросы.md",
+    "NodeJS/Подключение к базе данных.md",
+    "NodeJS/Запуск сервера.md",
+    "NodeJS/Инициализация проекта.md",
+    "NodeJS/NodeJS.md",
+    "NodeJS",
+    "NodeJS/Пакетный менеджер.md",
+    "NodeJS/Установка и настройка.md",
+    "Roadmap Junior.canvas",
+    "TS/Продвинутые типы/Привидение типов.md",
+    "NodeJS",
+    "TS/Продвинутые типы/Литеральные типы.md",
+    "TS/Продвинутые типы/Null.md",
+    "TS/Продвинутые типы/Never.md",
     "TS/Продвинутые типы/Unknown.md",
+    "TS/Продвинутые типы/Void.md",
     "TS/Продвинутые типы/Union.md",
     "TS/Продвинутые типы/Optional.md",
     "TS/Продвинутые типы/Продвинутые типы.md",
-    "TS/Продвинутые типы/Литеральные типы.md",
     "TS/Основные типы/Readonly.md",
     "TS/Основные типы/Enum.md",
     "TS/Основные типы/Типы в функциях.md",
@@ -165,19 +178,8 @@
     "TS/Основные типы/Кортежи.md",
     "TS/TS.md",
     "TS/Продвинутые типы/Типы и интерфейсы/Что использовать.md",
-    "TS/Продвинутые типы/Типы и интерфейсы/Type.md",
-    "TS/Продвинутые типы/Типы и интерфейсы/Interfaces.md",
-    "SCSS/Вложенности.md",
-    "Roadmap Junior.canvas",
-    "SCSS/Импорт.md",
-    "React/Хуки/Хуки.md",
     "Без названия.canvas",
     "TS/Продвинутые типы/Типы и интерфейсы",
-    "React/События.md",
-    "React/Структура проекта.md",
-    "React/Cтруктура проекта/Структура проекта.md",
-    "React/Подключение.md",
-    "React/Подключение стилей.md",
     "JS/Асинхронность/EventLoop/EventLoop1.png",
     "TS/Продвинутые типы",
     "TS/Основные типы",
@@ -194,8 +196,6 @@
     "React/Картинки структура проекта/Структура проекта 3.png",
     "React/Картинки структура проекта/Структура проекта 2.png",
     "React/Картинки структура проекта/Структура проекта 1.png",
-    "React/Картинки структура проекта",
-    "TS/Типы",
     "React/Redux/Pasted image 20240826154231.png"
   ]
 }
