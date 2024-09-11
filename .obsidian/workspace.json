@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7cbacd606d0ef2fd",
+        "id": "ee3c7872dbef673b",
         "type": "tabs",
         "children": [
           {
-            "id": "12e74a4135a3ca1f",
+            "id": "d495b5a743692361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Хуки/useEffect.md",
+                "file": "TS/Классы/Overload.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Хуки/useEffect.md",
+                "file": "TS/Классы/Overload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Хуки/useEffect.md",
+                "file": "TS/Классы/Overload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Хуки/useEffect.md"
+                "file": "TS/Классы/Overload.md"
               }
             }
           }
@@ -147,38 +147,40 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "12e74a4135a3ca1f",
+  "active": "d495b5a743692361",
   "lastOpenFiles": [
-    "JS/Функции.md",
-    "React/Хуки/useEffect.md",
-    "React/Подключение стилей.md",
-    "React/Подключение.md",
-    "React/Компоненты/Компоненты.md",
-    "React/Компоненты",
-    "React/Компоненты/Методы для компонентов.md",
-    "React/Вывод данных.md",
-    "JS/Переменные/Деструктурирующее присваивание.md",
-    "JS/Переменные/Область видимости.md",
-    "JS/Переменные/Объявление переменных.md",
-    "Roadmap Junior.canvas",
-    "JS/Переменные/Объявления и типы.md",
-    "JS/Переменные/Объявление с помощью var.md",
-    "JS/Переменные/Повторное объявление.md",
-    "JS/Переменные/Переменные.md",
-    "JS/Переменные",
-    "JS/Преобразования типов/Преобразования.md",
-    "JS/Преобразования типов/Преобразование и равенство.md",
-    "JS/Преобразования типов/Преобразования типов.md",
-    "JS/Сравнения.md",
-    "JS/Методы.md",
+    "TS/Классы/Overload.md",
+    "TS/Классы/Конструктор.md",
+    "TS/Классы/Методы.md",
+    "TS/Классы/Создание класса.md",
+    "TS/Классы/Классы.md",
     "JS/Классы.md",
+    "TS/Начало работы.md",
+    "TS/Продвинутые типы/Пересечение типов.md",
+    "TS/Продвинутые типы/Unknown.md",
+    "TS/Продвинутые типы/Type Guard.md",
+    "TS/Продвинутые типы/Never.md",
+    "TS/Продвинутые типы/Optional.md",
+    "TS/Продвинутые типы/Null.md",
+    "TS/Продвинутые типы/Литеральные типы.md",
+    "TS/Продвинутые типы/Продвинутые типы.md",
+    "TS/Продвинутые типы/Привидение типов.md",
+    "TS/Основные типы/Типизация объекта.md",
+    "TS/Основные типы/Основные типы.md",
+    "TS/Основные типы/Кортежи.md",
+    "TS/Классы",
+    "TS/Основные типы/Массивы.md",
+    "TS/Основные типы/Типы в функциях.md",
+    "TS/Продвинутые типы/Типы и интерфейсы/Interfaces.md",
+    "TS/Продвинутые типы/Union.md",
+    "React/Хуки/useCallback.md",
+    "React/Хуки/useMemo.md",
+    "React/Хуки/Хуки.md",
+    "JS/Выражения и операции",
+    "React/Компоненты",
+    "Roadmap Junior.canvas",
+    "JS/Переменные",
     "JS/Преобразования типов",
-    "JS/Без названия.md",
-    "JS/Преобразования типов.md",
-    "React/События.md",
-    "React/Хуки/useState.md",
-    "React/Хуки/useRef.md",
-    "React/Хуки/useContext.md",
     "NodeJS",
     "NodeJS",
     "Без названия.canvas",
@@ -186,8 +188,6 @@
     "JS/Асинхронность/EventLoop/EventLoop1.png",
     "TS/Продвинутые типы",
     "TS/Основные типы",
-    "TS",
-    "React/Создание проекта",
     "React/Redux/Структура проекта.png",
     "React/Redux/Redux пример использования.png",
     "React/Cтруктура проекта/Структура проекта 2.png",
