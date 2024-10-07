@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/TS + React/Типизация props.md",
+                "file": "React/Хуки/useCallback.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/TS + React/Типизация props.md",
+                "file": "React/Хуки/useCallback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/TS + React/Типизация props.md",
+                "file": "React/Хуки/useCallback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/TS + React/Типизация props.md"
+                "file": "React/Хуки/useCallback.md"
               }
             }
           }
@@ -149,12 +149,22 @@
   },
   "active": "c3695f02fdc33a36",
   "lastOpenFiles": [
+    "React/Хуки/useMemo.md",
+    "SCSS/Наследование.md",
     "TS/TS + React/Типизация props.md",
+    "TS/Основные типы/Типизация объекта.md",
+    "TS/Основные типы/Типы в функциях.md",
+    "TS/Основные типы/Основные типы.md",
+    "TS/Классы/Классы.md",
+    "TS/Классы/Конструктор.md",
+    "TS/Классы/Методы.md",
+    "TS/Классы/Создание класса.md",
+    "TS/Классы/Overload.md",
+    "JS/Асинхронность/Async & Await.md",
     "React/React.memo.md",
     "TS/TS + React/TS + React.md",
     "React/React.md",
     "TS/TS.md",
-    "React/Хуки/useMemo.md",
     "React/Хуки/useCallback.md",
     "TS/TS + React/Типизация функциональных компонентов.md",
     "TS/TS + React/Типизация событий.md",
@@ -164,18 +174,8 @@
     "TS/TS + React",
     "React/Хуки/useEffect.md",
     "React/Хуки/useContext.md",
-    "TS/Классы/Overload.md",
-    "TS/Классы/Конструктор.md",
-    "TS/Классы/Методы.md",
-    "TS/Классы/Создание класса.md",
-    "TS/Классы/Классы.md",
     "JS/Классы.md",
     "TS/Начало работы.md",
-    "TS/Продвинутые типы/Unknown.md",
-    "TS/Продвинутые типы/Type Guard.md",
-    "TS/Продвинутые типы/Never.md",
-    "TS/Продвинутые типы/Optional.md",
-    "TS/Продвинутые типы/Null.md",
     "TS/Классы",
     "JS/Выражения и операции",
     "React/Компоненты",
