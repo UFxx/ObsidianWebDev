@@ -35,5 +35,16 @@ function processAction(action: paymentAction) {
 `const _: never = action`
 И теперь у нас передаётся третий `action`, хотя явно мы этого не указали.
 
+Пример кода, который никогда не завершится:
+```
+function infiniteLoop(): never {
+	while (true) {
+		// ..
+	}
+}
+```
+
+Но такой код вряд-ли когда-то встретится.
+
 ---
 [[Продвинутые типы]]

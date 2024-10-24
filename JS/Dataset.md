@@ -12,7 +12,7 @@ elementsWithData.forEach(el => {
 К примеру:
 `data-color`, `data-start-position`...
 
-К этим атрибутам мы можем обратиться из JS использовав `dataset` (пример выше). По-мимо простого обращения к атрибуту `data`, мы можем устанавливать и менять его:
+К этим атрибутам мы можем обратиться из JS использовав `dataset` (пример выше). Помимо простого обращения к атрибуту `data`, мы можем устанавливать и менять его:
 ```
 const elementsWithData = document.querySelectorAll("[data]");
 elementsWithData.forEach((el, i) => {

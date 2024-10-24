@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a44b3345027d3df7",
+        "id": "0930943db449ccf4",
         "type": "tabs",
         "children": [
           {
-            "id": "c3695f02fdc33a36",
+            "id": "53ad931c8079feeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Хуки/useCallback.md",
+                "file": "TS/Продвинутые типы/Сужение типов.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Сужение типов"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 306.5
   },
   "right": {
     "id": "ab76dd6a8738b476",
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Хуки/useCallback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -102,10 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Хуки/useCallback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -116,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -124,9 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/Хуки/useCallback.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
             }
           }
         ],
@@ -147,35 +159,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c3695f02fdc33a36",
+  "active": "53ad931c8079feeb",
   "lastOpenFiles": [
-    "React/Хуки/useMemo.md",
-    "SCSS/Наследование.md",
-    "TS/TS + React/Типизация props.md",
-    "TS/Основные типы/Типизация объекта.md",
-    "TS/Основные типы/Типы в функциях.md",
-    "TS/Основные типы/Основные типы.md",
-    "TS/Классы/Классы.md",
-    "TS/Классы/Конструктор.md",
-    "TS/Классы/Методы.md",
     "TS/Классы/Создание класса.md",
-    "TS/Классы/Overload.md",
-    "JS/Асинхронность/Async & Await.md",
-    "React/React.memo.md",
-    "TS/TS + React/TS + React.md",
-    "React/React.md",
-    "TS/TS.md",
-    "React/Хуки/useCallback.md",
-    "TS/TS + React/Типизация функциональных компонентов.md",
-    "TS/TS + React/Типизация событий.md",
-    "JS/Выражения и операции/Выражения и операции.md",
-    "JS/Выражения и операции/Первичные выражения.md",
+    "TS/Классы/Методы.md",
+    "TS/Классы/Конструктор.md",
+    "TS/Классы/Классы.md",
+    "TS/Продвинутые типы/Сужение типов.md",
+    "JS/Dataset.md",
+    "TS/Продвинутые типы/Продвинутые типы.md",
+    "TS/Основные типы/Основные типы.md",
+    "TS/Продвинутые типы/Never.md",
+    "TS/Продвинутые типы/Объединение типов.md",
+    "TS/Продвинутые типы/Литеральные типы.md",
     "TS/Продвинутые типы/Пересечение типов.md",
+    "TS/Продвинутые типы/Привидение типов.md",
+    "TS/Продвинутые типы/Type Guard.md",
+    "TS/Продвинутые типы/Void.md",
+    "TS/Продвинутые типы/Unknown.md",
+    "TS/Продвинутые типы/Optional.md",
+    "TS/Продвинутые типы/Null.md",
+    "TS/Основные типы/Readonly.md",
+    "TS/Основные типы/Enum.md",
+    "TS/Основные типы/Any.md",
+    "TS/Основные типы/Типы в функциях.md",
+    "TS/Основные типы/Объекты.md",
+    "TS/Основные типы/Массивы.md",
+    "TS/Основные типы/Кортежи.md",
+    "TS/Продвинутые типы/Типы и интерфейсы/Что использовать.md",
     "TS/TS + React",
-    "React/Хуки/useEffect.md",
-    "React/Хуки/useContext.md",
-    "JS/Классы.md",
-    "TS/Начало работы.md",
     "TS/Классы",
     "JS/Выражения и операции",
     "React/Компоненты",
