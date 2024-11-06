@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0930943db449ccf4",
+        "id": "03cb0647517d09f9",
         "type": "tabs",
         "children": [
           {
-            "id": "53ad931c8079feeb",
+            "id": "04bbdb6948b2014b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Продвинутые типы/Сужение типов.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Сужение типов"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -159,34 +155,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "53ad931c8079feeb",
+  "active": "04bbdb6948b2014b",
   "lastOpenFiles": [
-    "TS/Классы/Создание класса.md",
-    "TS/Классы/Методы.md",
-    "TS/Классы/Конструктор.md",
-    "TS/Классы/Классы.md",
-    "TS/Продвинутые типы/Сужение типов.md",
-    "JS/Dataset.md",
-    "TS/Продвинутые типы/Продвинутые типы.md",
-    "TS/Основные типы/Основные типы.md",
-    "TS/Продвинутые типы/Never.md",
-    "TS/Продвинутые типы/Объединение типов.md",
-    "TS/Продвинутые типы/Литеральные типы.md",
+    "React/React Router/Переход на нужную страницу.md",
+    "React/JWT Auth.md",
+    "React/React Router/Создание роутинга.md",
+    "React/Хуки/useReducer.md",
+    "React/Хуки/useEffect.md",
+    "React/Хуки/useRef.md",
+    "React/Хуки/useMemo.md",
+    "React/Хуки/useCallback.md",
+    "React/Хуки/Хуки.md",
+    "JS/Асинхронность/Promise.md",
+    "React/React + API/Работа с данными.md",
+    "React/React.memo.md",
+    "React/React.md",
+    "React/Вывод данных.md",
+    "React/React Router/React Router.md",
+    "React/Создание проекта/Создание проекта Vite.md",
+    "React/Создание проекта/Создание проекта CRA.md",
+    "React/Создание проекта/Создание проекта.md",
+    "JS/Асинхронность/Async & Await.md",
     "TS/Продвинутые типы/Пересечение типов.md",
-    "TS/Продвинутые типы/Привидение типов.md",
-    "TS/Продвинутые типы/Type Guard.md",
-    "TS/Продвинутые типы/Void.md",
-    "TS/Продвинутые типы/Unknown.md",
-    "TS/Продвинутые типы/Optional.md",
-    "TS/Продвинутые типы/Null.md",
-    "TS/Основные типы/Readonly.md",
-    "TS/Основные типы/Enum.md",
-    "TS/Основные типы/Any.md",
-    "TS/Основные типы/Типы в функциях.md",
-    "TS/Основные типы/Объекты.md",
-    "TS/Основные типы/Массивы.md",
+    "TS/Продвинутые типы/Типы и интерфейсы/Interfaces.md",
+    "TS/Продвинутые типы/Объединение типов.md",
     "TS/Основные типы/Кортежи.md",
-    "TS/Продвинутые типы/Типы и интерфейсы/Что использовать.md",
+    "TS/Продвинутые типы/Литеральные типы.md",
+    "TS/Продвинутые типы/Сужение типов.md",
+    "TS/Классы/Создание класса.md",
     "TS/TS + React",
     "TS/Классы",
     "JS/Выражения и операции",
