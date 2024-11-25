@@ -44,4 +44,4 @@ let user: User = {
 
 
 ---
-[[Что использовать]]
+[[Type или Interface]]
